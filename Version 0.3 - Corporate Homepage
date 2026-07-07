@@ -53,7 +53,8 @@ font-weight:bold;
 <body>
 
 <header>
-<h1>Ramarutsi Group (Pty) Ltd</h1>
+<h1>RAMARUTSI GROUP (PTY) LTD</h1>
+<h3>Building Sustainable Businesses. Empowering Communities. Shaping Africa's Future.</h3>
 <p>Strength in Strategy • Power in Execution</p>
 <a class="button" href="#contact">Explore Our Companies</a>
 </header>
@@ -65,7 +66,14 @@ font-weight:bold;
 </div>
 
 <div class="card">
-<h2>Our Services</h2>
+<ul>
+  <li>Corporate Security Solutions</li>
+  <li>Training & Skills Development (RETA)</li>
+  <li>Scholar Transport Safety & Development</li>
+  <li>Construction & Infrastructure</li>
+  <li>Business Consulting & Project Management</li>
+  <li>Community Empowerment Programmes</li>
+</ul>
 <ul>
 <li>Security Services</li>
 <li>Training & Skills Development (RETA)</li>
@@ -76,7 +84,11 @@ font-weight:bold;
 </div>
 
 <div class="card" id="contact">
-<h2>Contact</h2>
+<h2>Contact Us</h2>
+<p><strong>Email:</strong> info@ramarutsi.co.za</p>
+<p><strong>Mobile:</strong> +27 83 246 3914</p>
+<p><strong>Office:</strong> 087 093 0916</p>
+<p><strong>Location:</strong> Randgate, Randfontein, Gauteng, South Africa</p>
 <p>Email: info@ramarutsi.co.za</p>
 <p>Phone: +27 (0)82 534 7477</p>
 </div>
